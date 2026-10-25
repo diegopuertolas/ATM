@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿decimal balance = 1000;
+
+AppMenu.DisplayMenu(balance);
